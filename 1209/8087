@@ -1,0 +1,9 @@
+---
+layout: pid
+title: Nana Zero Serial port
+owner: Misfittech
+license: Creative Commons
+site: http://www.misfittech.net/
+source: http://github.com/misfittech
+PID 8086 would be for bootloader, while 8087 would be serial port
+---
